@@ -2,6 +2,6 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/devcontainers-contrib/features/elasticsearch-asdf:2": {},
-    "ghcr.io/devcontainers-contrib/features/node-asdf:0": {}
+    "ghcr.io/devcontainers-community/features/deno:1": {}
   }
 }
